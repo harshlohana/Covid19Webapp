@@ -1,1 +1,53 @@
 /* css */
+
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.heading{
+  margin:60px;
+
+}
+
+.heading h3{
+  text-align: center;
+}
+
+.totalContainer{
+
+  margin:30px;
+}
+
+.totalContainer .row .col-3{
+
+  margin-left:80px;
+
+}
+
+.totalcases{
+  padding:50px;
+  text-align: center;
+}
+
+.totalcases h4{
+  text-align: center;
+}
+
+.cards-container{
+
+}
+
+.cards-container .row{
+
+}
+
+.cards-container .row .col-6{
+
+  text-align: center;
+}
+
+.cards-container .row .col-6 .card{
+  margin-left: 150px;
+  width:800px;
+}
